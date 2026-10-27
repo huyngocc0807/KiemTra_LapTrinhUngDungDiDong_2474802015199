@@ -19,15 +19,26 @@
 
 ---
 
-## Minh chứng hình ảnh (`screenshots/`)
+## Minh chứng hình ảnh thực tế (`screenshots/`)
 
-### 1. Câu 1
-- `screenshots/cau1_validation_error.png`: Lỗi dữ liệu không hợp lệ.
-- `screenshots/cau1_validation_success.png`: Xác thực thành công.
+### 1. Câu 1: Màn hình Đăng nhập & Xác thực dữ liệu
+- **Lỗi dữ liệu không hợp lệ:**  
+  <img src="screenshots/cau1_validation_error.png" width="320" alt="Lỗi dữ liệu" />
 
-### 2. Câu 2
-- `screenshots/cau2_profile_intent.png`: Màn hình Profile hiển thị đúng Email.
+- **Xác thực thành công:**  
+  <img src="screenshots/cau1_validation_success.png" width="320" alt="Xác thực thành công" />
 
-### 3. Câu 3
-- `screenshots/cau3_listview_display.png`: ListView hiển thị danh sách môn học.
-- `screenshots/cau3_item_click_toast.png`: Toast thông báo khi chọn item.
+---
+
+### 2. Câu 2: Điều hướng Intent & ProfileActivity
+- **Màn hình Profile hiển thị Email người dùng:**  
+  <img src="screenshots/cau2_profile_intent.png" width="320" alt="Profile Intent" />
+
+---
+
+### 3. Câu 3: Màn hình Danh sách ListView & Thông báo Toast
+- **Hiển thị danh sách môn học:**  
+  <img src="screenshots/cau3_listview_display.png" width="320" alt="ListView Display" />
+
+- **Thông báo Toast khi chọn môn học:**  
+  <img src="screenshots/cau3_item_click_toast.png" width="320" alt="Toast chọn item" />
